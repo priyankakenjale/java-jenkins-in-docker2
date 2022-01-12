@@ -1,0 +1,4 @@
+# Created at 2022-01-12T18:04:16.535
+Boot Manifest-JAR contains absolute paths in classpath 'E:\INFOWAY\7_SW_DEVELOPMENT_METHODLOGY\eclipsSelenium\java-jenkins-in-docker\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+
